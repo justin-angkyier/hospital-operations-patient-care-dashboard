@@ -60,6 +60,9 @@ This project demonstrates practical skills in:
 - Data visualisation.
 - Translating healthcare operational questions into analytical outputs.
 
+## Dashboard Preview
+![Hospital Operations & Patient Care Dashboard](Screenshot%202026-11-21%20003613.png)
+
 ## Author
 
 **Justin Angkyier, RN**
