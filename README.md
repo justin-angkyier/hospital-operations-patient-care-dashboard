@@ -71,7 +71,7 @@ Registered Nurse | Healthcare Data Analytics | Digital Health
 
 GitHub: https://github.com/justin-angkyier
 
-LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/)
+- **LinkedIn:** [Justin Angkyier](https://www.linkedin.com/in/justin-angkyier/)
 
 ---
 
